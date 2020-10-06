@@ -2893,7 +2893,7 @@ ul {
 .banner_item .single_item:after {
   position: absolute;
   content: "";
-  right: -48%;
+  right: -15%;
   top: 0;
   width: 1px;
   height: 100%;
