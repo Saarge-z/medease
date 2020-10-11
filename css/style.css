@@ -3,7 +3,7 @@
 .btn_1, .btn_2, .regervation_part .btn_2:hover {
   background-image: -webkit-linear-gradient(to right, #649bff, #0070fa, #649bff);
   background-image: -o-linear-gradient(to right, #649bff, #0070fa, #649bff);
-  background-image: linear-gradient(to right, #649bff, #0070fa, #649bff);
+  background-image: linear-gradient(to right, #cd2219, #770903, #ce5e69);
 }
 
 /* line 6, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_extends.scss */
@@ -184,7 +184,7 @@ a:hover {
 
 /* line 87, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
 h1, h2, h3, h4, h5, h6 {
-  color: #242429;
+  color: #b90109;
   font-family: "Playfair Display", serif;
 }
 
@@ -195,7 +195,7 @@ p {
   line-height: 1.929;
   font-size: 16px;
   margin-bottom: 0px;
-  color: #888888;
+  color: #ffff;
 }
 
 /* line 100, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
@@ -3199,7 +3199,7 @@ ul {
 
 /* line 155, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_feature_part.scss */
 .feature_part .single_feature_part p {
-  color: #7f7f7f;
+  color: #242429;
   line-height: 1.8;
   font-size: 15px;
 }
@@ -3497,7 +3497,7 @@ ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #1c19ab;
+  background-color: #cd2219;
   opacity: 0.8;
   z-index: -1;
 }
@@ -6118,7 +6118,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 75, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_footer.scss */
 .footer-area .single-footer-widget .click-btn {
-  background-color: #0065e1;
+  background-color: #cd2219;
   color: #fff;
   border-radius: 5px;
   border: 0;
